@@ -10,12 +10,15 @@
 - [Hızlı Kurulum](#hizli-kurulum)
 
 <h2 id="genel-bakis">Genel Bakış</h2>
+
 Bu platform, herkesin kolayca çevrimiçi eğitim almasını ve vermesini sağlayan modern bir eğitim uygulamasıdır. Öğrenciler ilgi alanlarına uygun kurslara erişebilir, öğrenme süreçlerini takip edebilir ve deneyimlerini paylaşabilir. Eğitmenler ise kendi içeriklerini oluşturup geniş bir kitleye ulaştırabilir. Kullanıcı dostu arayüzü, etkileşimli ders deneyimi ve ölçeklenebilir yapısıyla platform, hem öğrenenler hem öğretenler için esnek ve etkili bir eğitim ortamı sunar.
 
 <h2 id="teknolojiler">Teknolojiler</h2>
+
 - Veritabanı: PostgreSQL
 
 <h2 id="dosya-yapisi">Dosya Yapısı</h2>
+
 - db/       # Veritabanı İşlemleri: Tablolar, test verileri ve ERD.
 
 <h2 id="veritabani-semasi">Veritabanı Şeması</h2>
@@ -25,6 +28,7 @@ Bu platform, herkesin kolayca çevrimiçi eğitim almasını ve vermesini sağla
 ERD görselini ayrıca db/erd.png içinde de bulabilirsiniz.
 
 <h2 id="hizli-kurulum">Hızlı Kurulum</h2>
+
 Yakında...
 
 
