@@ -4,8 +4,7 @@ Bu repository, [backendchallenges.com](https://backendchallenges.com) üzerindek
 Her challenge kendi klasöründe yer almakta ve gerekli açıklamalar o klasörün `README.md` dosyasında bulunmaktadır.
 
 ## 📂 Yapı
-- `01_first_challenge/` → İlk challenge çözümü  
-- `02_second_challenge/` → İkinci challenge çözümü  
+- `01_course_platform/` → İlk challenge çözümü  
 - ...
 
 ## 🛠️ Kullanım
@@ -20,8 +19,7 @@ This repository contains my solutions to the projects from [backendchallenges.co
 Each challenge is placed in its own folder, with explanations inside that folder’s `README.md`.
 
 ## 📂 Structure
-- `01_first_challenge/` → First challenge solution  
-- `02_second_challenge/` → Second challenge solution  
+- `01_course_platform/` → First challenge solution  
 - ...
 
 ## 🛠️ Usage
