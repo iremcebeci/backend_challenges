@@ -19,13 +19,13 @@ Bu platform, herkesin kolayca çevrimiçi eğitim almasını ve vermesini sağla
 
 <h2 id="dosya-yapisi">Dosya Yapısı</h2>
 
-- db/       # Veritabanı İşlemleri: Tablolar, test verileri ve ERD.
+- `db/`             --> Veritabanı İşlemleri: Tablolar, test verileri ve ERD.
 
 <h2 id="veritabani-semasi">Veritabanı Şeması</h2>
 
 ![ERD](db/erd.png)
 
-ERD görselini ayrıca db/erd.png içinde de bulabilirsiniz.
+ERD görselini ayrıca `db/erd.png` içinde de bulabilirsiniz.
 
 <h2 id="hizli-kurulum">Hızlı Kurulum</h2>
 
@@ -50,7 +50,7 @@ This platform is a modern educational application that allows anyone to easily t
 - Database: PostgreSQL
 
 ## File Structure
-- db/       # Database Operations: Tables, test data, and ERD.
+- `db/`             --> Database Operations: Tables, test data, and ERD.
 
 ## Database Schema
 ![ERD](db/erd.png)
