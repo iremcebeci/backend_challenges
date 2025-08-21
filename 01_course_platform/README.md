@@ -19,6 +19,7 @@ Bu platform, herkesin kolayca çevrimiçi eğitim almasını ve vermesini sağla
 - db/       # Veritabanı İşlemleri: Tablolar, test verileri ve ERD.
 
 <h2 id="veritabani-semasi">Veritabanı Şeması</h2>
+
 ![ERD](db/erd.png)
 
 ERD görselini ayrıca db/erd.png içinde de bulabilirsiniz.
